@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+
 	double Number1, Number2;
 	char x;
 	cout << "This is a simple calculator .\n";
