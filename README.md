@@ -1,2 +1,2 @@
 🧮 Simple Calculator using C++
-Takes two numbers and an operator (+, -, *, /) from user and displays the result.
+Takes two numbers and an operator (+, -, *, /) from user and displays the result and calculates power (a ^ b)
